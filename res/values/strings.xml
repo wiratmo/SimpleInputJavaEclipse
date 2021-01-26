@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FormSiswa</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="formTitle">Form</string>
+    <string name="inputNama">Nama</string>
+    <string name="labelNama">Nama</string>
+    <string name="inputFormNama"></string>
+    <string name="formButtonSimpan">Simpan</string>
+    <string name="outputForm">outputLabel</string>
+
+</resources>
